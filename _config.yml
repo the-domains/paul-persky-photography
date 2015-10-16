@@ -1,6 +1,6 @@
 name: Paul Persky Photography
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.47613784903660417
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: shares
     item: null
     url: null
+typography_spectrum: 0.3833885670173913
