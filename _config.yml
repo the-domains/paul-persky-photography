@@ -1,6 +1,7 @@
 name: Paul Persky Photography
 favicon: null
-layout_spectrum: 0.47613784903660417
+layout_spectrum: 0
+typography_spectrum: 0.3988
 cta:
   domain: null
   bucket: null
@@ -14,13 +15,17 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#ffffff'
+    - '#373332'
+    - '#9a8067'
+    - '#e0c19d'
+    - '#8e403b'
   brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
+  lightness: 0
+  saturation: 0
   rhythmicContrast: 0.5
 purpose:
   - name: shares
     item: null
     url: null
-typography_spectrum: 0.3833885670173913
